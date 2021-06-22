@@ -1,0 +1,15 @@
+.pointer {
+    cursor: pointer;
+}
+
+#doctorHourContainer {
+    display: none;
+}
+
+#notificationCount {
+    color: red;
+}
+
+.record {
+    background-color: white;
+}
